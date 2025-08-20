@@ -6,16 +6,16 @@ I’m passionate about *technology, coding and problem solving.* and love buildi
 ---
 
 ## 📌 About Me  
-- 🎓 Undergraduate student learning *Computer Science & IT concepts*
-- 💻 Interested in *Software Development, Databases, and Information Systems*
-- 📚 Currently learning *C, Java, MySQL, and Web Development*
-- 🌱 Exploring *Human-Computer Interaction (HCI) and Information Security*
+- 🎓 Undergraduate student learning **Computer Science & IT concepts**
+- 💻 Interested in **Software Development, Databases, and Information Systems**
+- 📚 Currently learning **C, Java, MySQL, and Web Development**
+- 🌱 Exploring **Human-Computer Interaction (HCI) and Information Security**
 
 ---
 
 ## 🛠 Tech Stack  
 
-*Languages & Tools:*  
+**Languages & Tools:** 
 - HTML, CSS, JavaScript
 - Java, C programming
 - MySQL, Microsoft Access
