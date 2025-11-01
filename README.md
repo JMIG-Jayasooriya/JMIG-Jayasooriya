@@ -1,5 +1,5 @@
 ![logo](https://github.com/JMIG-Jayasooriya/JMIG-Jayasooriya/blob/5d512bf838c41b965505760444e3be81462d76d1/Ytext.png)
-# Isumi-Gayasha
+
 # 👋 Hi, I'm Isumi Gayasha.  
 
 I’m passionate about *technology, coding and problem solving.* and love building impactful projects.  
